@@ -1,0 +1,17 @@
+{
+"companyName": "L.",
+"productName": "Gametusy",
+"productVersion": "1",
+"dataUrl": "fcktasy webgl build.data.unityweb",
+"wasmCodeUrl": "fcktasy webgl build.wasm.code.unityweb",
+"wasmFrameworkUrl": "fcktasy webgl build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "fcktasy webgl build.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0f6"
+}
